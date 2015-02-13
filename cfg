@@ -1,0 +1,2 @@
+cmake .. -DCMAKE_CXX_FLAGS:STRING=-I/work/01249/gda/plugins/install/stampede/include -DParaView_DIR:PATH=/work/01249/gda/paraview/stampede-4.2-mp-rel-vanilla/lib/cmake/paraview-4.2
+
